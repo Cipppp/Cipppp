@@ -10,7 +10,14 @@ jobs:
         name: Update Readme with Metrics
         runs-on: ubuntu-latest
         steps:
-            - uses: athul/waka-readme@master
+            - uses: anmol098/waka-readme-stats@master
               with:
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                  BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
                   GH_TOKEN: ${{ secrets.GH_TOKEN }}
+                  REPOSITORY: Cipppp/Projects
+                  SHOW_PROJECTS: False
+                  SHOW_TIMEZONE: False
+                  SHOW_EDITORS: False
+                  SHOW_LANGUAGE_PER_REPO: False
+                  SHOW_LOC_CHART: False
