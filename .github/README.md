@@ -72,10 +72,10 @@ Sunday       33 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 14/07/2021
+ Last Updated on 15/07/2021
 <!--END_SECTION:waka-->
