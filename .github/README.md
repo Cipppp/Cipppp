@@ -1,4 +1,4 @@
-# Ciprian Pîrvu 😃
+# Ciprian Pîrvu 🔥
 
 Little thing about me? ha, I thought this section it is supposed to be important.
 
