@@ -34,11 +34,11 @@ Talk to me about
 -   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/p%C3%AErvu-ciprian-cristian-4415991b1/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 237 Contributions in the Year 2022
+> 🏆 238 Contributions in the Year 2022
  > 
 > 📦 643.0 kB Used in GitHub's Storage 
  > 
@@ -46,7 +46,7 @@ Talk to me about
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 27 Private Repositories  
+> 🔑 28 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -75,14 +75,14 @@ Sunday       63 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     7 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.23% 
-Other                    6 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   27.0% 
-Python                   3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
-C                        2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-HTML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.37%
+Other                    5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   27.2% 
+Java                     4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   26.18% 
+Python                   3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.17% 
+C                        2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.28% 
+HTML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.61%
 
 ```
 
 
- Last Updated on 05/05/2022 02:43:50 UTC
+ Last Updated on 06/05/2022 02:30:46 UTC
 <!--END_SECTION:waka-->
