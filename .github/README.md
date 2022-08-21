@@ -34,7 +34,7 @@ Talk to me about
 -   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/p%C3%AErvu-ciprian-cristian-4415991b1/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C288%20hrs%2049%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -81,5 +81,5 @@ Other                    54 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 20/08/2022 01:30:11 UTC
+ Last Updated on 21/08/2022 01:29:55 UTC
 <!--END_SECTION:waka-->
