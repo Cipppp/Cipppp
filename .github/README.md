@@ -4,7 +4,9 @@ Little thing about me? ha, I thought this section it is supposed to be important
 
 ## 🧐 About
 
-Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, I am working on democratizing technical education and shape the next generation of engineers and developers.
+Hey there! My name is Ciprian and I am a computer science student with a love for all things coding and tech. When I'm not busy solving complex algorithms and debugging pesky code bugs, you can find me cuddling with my pet corgi or indulging in my passion for puns (which are, of course, the highest form of humor).
+
+But don't let my cute and cuddly exterior (or my love for terrible jokes) fool you - I am a serious programmer at heart. With a strong foundation in a variety of programming languages and a proven track record of delivering top-quality results, I am confident that I can help you take your project to the next level. So if you're in need of a reliable and skilled computer science professional (who also happens to be a bit of a goofball), don't hesitate to reach out. I would be thrilled to work with you and make your coding dreams a reality!
 
 ## 👯 Communities
 
