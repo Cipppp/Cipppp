@@ -36,13 +36,13 @@ Talk to me about
 -   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/p%C3%AErvu-ciprian-cristian-4415991b1/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C602%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C608%20hrs%207%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 163 Contributions in the Year 2023
+> 🏆 164 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,13 +75,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-JavaScript               2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Julia                    1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-TypeScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+JavaScript               5 hrs 47 mins       ████████████░░░░░░░░░░░░░   46.66 % 
+C++                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Julia                    1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Markdown                 1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 
 
- Last Updated on 16/03/2023 01:28:00 UTC
+ Last Updated on 17/03/2023 01:28:00 UTC
 <!--END_SECTION:waka-->
