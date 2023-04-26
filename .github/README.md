@@ -36,7 +36,7 @@ Talk to me about
 -   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/p%C3%AErvu-ciprian-cristian-4415991b1/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C699%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C703%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,9 +46,9 @@ Talk to me about
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
-> 🔑 45 Private Repositories 
+> 🔑 44 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -75,13 +75,13 @@ Sunday                   442 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     13 hrs 43 mins      ████████████░░░░░░░░░░░░░   47.34 % 
-TypeScript               6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-C                        2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+TypeScript               7 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
+Dart                     4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+C                        2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 
 
- Last Updated on 25/04/2023 01:32:08 UTC
+ Last Updated on 26/04/2023 01:32:19 UTC
 <!--END_SECTION:waka-->
