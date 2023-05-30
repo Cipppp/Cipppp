@@ -36,7 +36,7 @@ Talk to me about
 -   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/p%C3%AErvu-ciprian-cristian-4415991b1/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,10 +75,10 @@ Sunday                   451 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 16 mins             ████████████████░░░░░░░░░   63.29 % 
-Other                    9 mins              █████████░░░░░░░░░░░░░░░░   36.71 % 
+Other                    17 mins             ████████████████░░░░░░░░░   64.75 % 
+Markdown                 9 mins              █████████░░░░░░░░░░░░░░░░   35.25 % 
 ```
 
 
- Last Updated on 29/05/2023 01:31:54 UTC
+ Last Updated on 30/05/2023 01:33:00 UTC
 <!--END_SECTION:waka-->
