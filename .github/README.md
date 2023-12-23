@@ -36,7 +36,7 @@ Talk to me about
 -   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/p%C3%AErvu-ciprian-cristian-4415991b1/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C892%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2028%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,9 +46,9 @@ Talk to me about
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 38 Public Repositories 
  > 
-> 🔑 47 Private Repositories 
+> 🔑 48 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -83,5 +83,5 @@ Perl                     46 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/12/2023 01:28:17 UTC
+ Last Updated on 23/12/2023 01:26:44 UTC
 <!--END_SECTION:waka-->
