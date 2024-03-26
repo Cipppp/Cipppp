@@ -36,17 +36,17 @@ Talk to me about
 -   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/p%C3%AErvu-ciprian-cristian-4415991b1/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C970%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C970%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2024
+> 🏆 57 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 50 Private Repositories 
  > 
@@ -75,11 +75,12 @@ Sunday                   344 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      1 min               ███████████████████░░░░░░   75.99 % 
-C                        0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+C++                      37 mins             █████████████████████░░░░   83.20 % 
+Text                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
- Last Updated on 25/03/2024 01:25:41 UTC
+ Last Updated on 26/03/2024 01:24:18 UTC
 <!--END_SECTION:waka-->
