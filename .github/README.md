@@ -42,8 +42,6 @@ Talk to me about
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -81,5 +79,5 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/03/2024 01:24:38 UTC
+ Last Updated on 29/03/2024 01:24:33 UTC
 <!--END_SECTION:waka-->
