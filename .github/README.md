@@ -1,8 +1,8 @@
-# <img height="36px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png">&nbsp;&nbsp; Ciprian Pîrvu ❐ </h1>
+# <img height="32px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"> Ciprian Pîrvu ❐ </h1>
 
 Little thing about me? ha, I thought this section it is supposed to be important.
 
-## <img height="36px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">&nbsp;&nbsp;  About
+## <img height="32px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> About
 
 Hey there! My name is Ciprian and I am a computer science student with a love for all things coding and tech. When I'm not busy solving complex algorithms and debugging pesky code bugs, you can find me cuddling with my pet corgi or indulging in my passion for puns (which are, of course, the highest form of humor).
 
@@ -14,33 +14,28 @@ But don't let my cute and cuddly exterior (or my love for terrible jokes) fool y
 
 ## ⚡ Highlighted skills
 
-🎯 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈: Java, Python, Node.js (JavaScript/TypeScript), PHP
+🎯 **Programming:** Java, Python, Node.js (JavaScript/TypeScript), PHP
 
-🎯 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅: Spring Boot, FastAPI, Node.js, Express, REST API
+🎯 **Back-end:** Spring Boot, FastAPI, Node.js, Express, REST API
 
-🎯 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅: React, Next.js, Angular, HTML5, CSS
+🎯 **Front-end:** React, Next.js, Angular, HTML5, CSS
 
-🎯 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MySQL, PostgreSQL, MongoDB, Firebase
+🎯 **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 
-🎯 𝑫𝒆𝒗𝑶𝒑𝒔: AWS, GCP, Docker, GitHub Actions, Jenkins, Bash, Git
+🎯 **DevOps:** AWS, GCP, Docker, GitHub Actions, Jenkins, Bash, Git
 
-🎯 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔: English, Romanian
+🎯 **Languages:** English, Romanian
 
 ## Passion and experience:
 Starting my coding journey in college, I've accumulated over 2+ years of hands-on experience. I’m driven by a passion for solving problems and crafting software that’s not only functional but also user-friendly and impactful.
 
-💻 Open to exciting remote opportunities!
+
+## 📫 Contact Me
 
 🤝 Need help with your next project? Let’s connect!
 
 📱 Phone: +40 774 657 614
 📭 Email: pirvuciprian37@gmail.com
-
-## 📫 Contact Me
-
--   Website - [github.io/pirvuciprian](https://cipppp.github.io/pirvuciprian/)
--   Twitter - [@cip_pirvu](https://x.com/cip_pirvu)
--   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/pirvuciprian/)
 
 💻 Open to exciting remote opportunities!
 
