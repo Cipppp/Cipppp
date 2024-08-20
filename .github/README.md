@@ -12,28 +12,32 @@ But don't let my cute and cuddly exterior (or my love for terrible jokes) fool y
 
 -   TODO: Communities
 
-## ⚡ Technologies
+## ⚡ Highlighted skills
 
-Talk to me about
+🎯 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈: Java, Python, Node.js (JavaScript/TypeScript), PHP
+🎯 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅: Spring Boot, FastAPI, Node.js, Express, REST API
+🎯 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅: React, Next.js, Angular, HTML5, CSS
+🎯 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MySQL, PostgreSQL, MongoDB, Firebase
+🎯 𝑫𝒆𝒗𝑶𝒑𝒔: AWS, GCP, Docker, GitHub Actions, Jenkins, Bash, Git
+🎯 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔: English, Romanian
 
--   Front-end development using **React**
--   Backend development using **Node**
--   Desktop application development using **Python**
--   Mobile application development using **Android (Kotlin)**
--   Project Management and CD/CI using **Github**
+## Passion and experience:
+Starting my coding journey in college, I've accumulated over 2+ years of hands-on experience. I’m driven by a passion for solving problems and crafting software that’s not only functional but also user-friendly and impactful.
 
-### ✔️ I'm currently learning
+💻 Open to exciting remote opportunities!
 
--   JavaScript
--   ReactJS
--   Machine Learning
--   Docker
+🤝 Need help with your next project? Let’s connect!
+
+📱 Phone: +40 774 657 614
+📭 Email: pirvuciprian37@gmail.com
 
 ## 📫 Contact Me
 
--   Website - [my-blog]()
--   Twitter - [@my-twitter]()
--   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/p%C3%AErvu-ciprian-cristian-4415991b1/)
+-   Website - [github.io/pirvuciprian](https://cipppp.github.io/pirvuciprian/)
+-   Twitter - [@cip_pirvu](https://x.com/cip_pirvu)
+-   LinkedIn - [Ciprian Pîrvu](https://www.linkedin.com/in/pirvuciprian/)
+
+💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C121%20hrs%2035%20mins-blue)
