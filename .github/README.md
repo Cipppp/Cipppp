@@ -15,10 +15,15 @@ But don't let my cute and cuddly exterior (or my love for terrible jokes) fool y
 ## ⚡ Highlighted skills
 
 🎯 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈: Java, Python, Node.js (JavaScript/TypeScript), PHP
+
 🎯 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅: Spring Boot, FastAPI, Node.js, Express, REST API
+
 🎯 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅: React, Next.js, Angular, HTML5, CSS
+
 🎯 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆𝒔: MySQL, PostgreSQL, MongoDB, Firebase
+
 🎯 𝑫𝒆𝒗𝑶𝒑𝒔: AWS, GCP, Docker, GitHub Actions, Jenkins, Bash, Git
+
 🎯 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔: English, Romanian
 
 ## Passion and experience:
