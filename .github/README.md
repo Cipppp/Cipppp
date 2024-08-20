@@ -1,4 +1,4 @@
-# <img height="28px" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">&nbsp;&nbsp; Ciprian Pîrvu ❐ </h1>
+# <img height="28px" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png">&nbsp;&nbsp; Ciprian Pîrvu ❐ </h1>
 
 Little thing about me? ha, I thought this section it is supposed to be important.
 
