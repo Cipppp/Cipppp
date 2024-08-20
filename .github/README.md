@@ -2,7 +2,7 @@
 
 Little thing about me? ha, I thought this section it is supposed to be important.
 
-## <img height="32px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> About
+## 🧐 About
 
 Hey there! My name is Ciprian and I am a computer science student with a love for all things coding and tech. When I'm not busy solving complex algorithms and debugging pesky code bugs, you can find me cuddling with my pet corgi or indulging in my passion for puns (which are, of course, the highest form of humor).
 
