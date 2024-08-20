@@ -30,7 +30,9 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 🤝 Need help with your next project? Let’s connect!
 
 📱 Phone: +40 774 657 614
+
 📭 Email: pirvuciprian37@gmail.com
+
 
 💻 Open to exciting remote opportunities!
 
