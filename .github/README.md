@@ -15,11 +15,11 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 
 🎯 **Back-end:** Spring Boot, FastAPI, Node.js, Express, REST API
 
-🎯 **Front-end:** React, Next.js, Angular, HTML5, CSS
+🎯 **Front-end:** Next.js, Vue, React, Angular, HTML5, CSS
 
 🎯 **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 
-🎯 **DevOps:** AWS, GCP, Docker, GitHub Actions, Jenkins, Bash, Git
+🎯 **DevOps:** AWS, Docker, GitHub Actions, Jenkins, Bash, Git
 
 🎯 **Languages:** English, Romanian
 
