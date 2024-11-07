@@ -37,13 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C196%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C199%20hrs%2014%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 313 Contributions in the Year 2024
+> 🏆 315 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,13 +76,13 @@ Sunday                   307 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
-Markdown                 3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-HTML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Objective-C              1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+JSON                     6 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.52 % 
+Markdown                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Objective-C              1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+HTML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 
- Last Updated on 06/11/2024 01:31:22 UTC
+ Last Updated on 07/11/2024 01:31:20 UTC
 <!--END_SECTION:waka-->
