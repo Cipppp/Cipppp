@@ -37,13 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C212%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C215%20hrs%208%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 318 Contributions in the Year 2024
+> 🏆 319 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,6 +51,38 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
  > 
 > 🔑 54 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 17/11/2024 01:32:25 UTC
+```text
+🌞 Morning                289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌆 Daytime                639 commits         ████████░░░░░░░░░░░░░░░░░   30.24 % 
+🌃 Evening                1054 commits        ████████████░░░░░░░░░░░░░   49.88 % 
+🌙 Night                  131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Tuesday                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Wednesday                425 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Friday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 388 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Sunday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 46 mins       ███████████████░░░░░░░░░░   59.80 % 
+Pug                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Bash                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+```
+
+
+ Last Updated on 18/11/2024 01:32:05 UTC
 <!--END_SECTION:waka-->
