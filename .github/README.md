@@ -37,7 +37,7 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C225%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C230%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,13 +76,13 @@ Sunday                   308 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Nginx configuration file 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-JavaScript               1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Bash                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-TypeScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+YAML                     3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+JavaScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Nginx configuration file 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Docker                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Bash                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 ```
 
 
- Last Updated on 26/11/2024 01:32:07 UTC
+ Last Updated on 27/11/2024 01:32:38 UTC
 <!--END_SECTION:waka-->
