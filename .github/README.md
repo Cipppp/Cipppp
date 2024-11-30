@@ -43,7 +43,7 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 325 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,5 +84,5 @@ Bash                     1 hr 13 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 29/11/2024 01:32:33 UTC
+ Last Updated on 30/11/2024 01:32:03 UTC
 <!--END_SECTION:waka-->
