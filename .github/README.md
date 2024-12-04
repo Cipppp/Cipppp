@@ -37,19 +37,19 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C235%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C235%20hrs%2025%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 328 Contributions in the Year 2024
+> 🏆 329 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
-> 🔑 56 Private Repositories 
+> 🔑 57 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -76,13 +76,13 @@ Sunday                   309 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Bash                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Docker                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Nginx configuration file 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Bash                     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   30.36 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+JavaScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 ```
 
 
- Last Updated on 03/12/2024 01:32:10 UTC
+ Last Updated on 04/12/2024 01:32:46 UTC
 <!--END_SECTION:waka-->
