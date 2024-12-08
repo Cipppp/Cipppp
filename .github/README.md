@@ -37,19 +37,19 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C238%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C239%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 331 Contributions in the Year 2024
+> 🏆 332 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
-> 🔑 57 Private Repositories 
+> 🔑 58 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -76,13 +76,13 @@ Sunday                   309 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-TypeScript               1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-JavaScript               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Prolog                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+JavaScript               2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Bash                     1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+TypeScript               1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+Prolog                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 ```
 
 
- Last Updated on 07/12/2024 01:32:10 UTC
+ Last Updated on 08/12/2024 01:32:40 UTC
 <!--END_SECTION:waka-->
