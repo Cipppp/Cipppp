@@ -43,8 +43,6 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -84,5 +82,5 @@ Prolog                   4 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/01/2025 01:32:14 UTC
+ Last Updated on 11/01/2025 01:32:36 UTC
 <!--END_SECTION:waka-->
