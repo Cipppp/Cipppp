@@ -37,7 +37,7 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C256%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2049%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,10 +76,13 @@ Sunday                   312 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-INI                      9 mins              █████████████████████████   99.70 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Terraform                59 mins             ██████████░░░░░░░░░░░░░░░   38.66 % 
+Python                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+XML                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Prolog                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+INI                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 ```
 
 
- Last Updated on 15/01/2025 01:31:35 UTC
+ Last Updated on 16/01/2025 01:31:40 UTC
 <!--END_SECTION:waka-->
