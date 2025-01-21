@@ -37,13 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C261%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C262%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
+> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,38 +51,6 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
  > 
 > 🔑 59 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-🌆 Daytime                639 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌃 Evening                1101 commits        █████████████░░░░░░░░░░░░   50.64 % 
-🌙 Night                  140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Tuesday                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Wednesday                427 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Thursday                 289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Saturday                 410 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Sunday                   313 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   36.67 % 
-Terraform                59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-XML                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Prolog                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-```
-
-
- Last Updated on 20/01/2025 01:31:49 UTC
+ Last Updated on 21/01/2025 01:31:33 UTC
 <!--END_SECTION:waka-->
