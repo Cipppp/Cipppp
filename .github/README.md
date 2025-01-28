@@ -37,13 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C263%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C266%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
+> 🏆 23 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,38 +51,6 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
  > 
 > 🔑 59 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-🌆 Daytime                639 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-🌃 Evening                1109 commits        █████████████░░░░░░░░░░░░   50.69 % 
-🌙 Night                  144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Tuesday                  233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Wednesday                427 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Thursday                 289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Friday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Saturday                 416 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Sunday                   313 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 28 mins        ██████████████░░░░░░░░░░░   57.93 % 
-MATLAB                   52 mins             █████████░░░░░░░░░░░░░░░░   34.40 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-
-
- Last Updated on 27/01/2025 01:32:23 UTC
+ Last Updated on 28/01/2025 01:32:30 UTC
 <!--END_SECTION:waka-->
