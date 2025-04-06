@@ -43,8 +43,6 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -84,5 +82,5 @@ Markdown                 12 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/04/2025 01:32:40 UTC
+ Last Updated on 06/04/2025 01:32:09 UTC
 <!--END_SECTION:waka-->
