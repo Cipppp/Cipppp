@@ -37,6 +37,8 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2059%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
@@ -49,6 +51,34 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
  > 
 > 🔑 61 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 02/07/2025 01:32:49 UTC
+```text
+🌞 Morning                316 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌆 Daytime                644 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+🌃 Evening                1134 commits        █████████████░░░░░░░░░░░░   50.53 % 
+🌙 Night                  150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Tuesday                  230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Wednesday                446 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Thursday                 295 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Friday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Saturday                 426 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Sunday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    14 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 03/07/2025 01:32:39 UTC
 <!--END_SECTION:waka-->
