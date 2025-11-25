@@ -37,7 +37,7 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C371%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%209%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,5 +84,5 @@ Bash                     5 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/11/2025 01:33:57 UTC
+ Last Updated on 25/11/2025 01:33:17 UTC
 <!--END_SECTION:waka-->
