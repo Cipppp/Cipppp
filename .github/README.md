@@ -37,13 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C426%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C429%20hrs%202%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,13 +76,13 @@ Sunday                   325 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.86 % 
-C                        7 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
-Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Python                   11 hrs 7 mins       ██████████████░░░░░░░░░░░   56.62 % 
+C                        5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Makefile                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
- Last Updated on 20/01/2026 01:34:36 UTC
+ Last Updated on 21/01/2026 01:34:42 UTC
 <!--END_SECTION:waka-->
