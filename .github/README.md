@@ -37,13 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2026
+> 🏆 219 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,10 +76,11 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              ██████████████████░░░░░░░   71.64 % 
-Python                   1 min               ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+TypeScript               4 mins              ████████████████████░░░░░   79.58 % 
+JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 
 
- Last Updated on 31/03/2026 01:30:28 UTC
+ Last Updated on 01/04/2026 01:30:27 UTC
 <!--END_SECTION:waka-->
