@@ -37,13 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C436%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C436%20hrs%209%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 264 Contributions in the Year 2026
+> 🏆 266 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,13 +76,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.07 % 
-Other                    1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Terraform                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+TypeScript               1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   34.20 % 
+Other                    1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Terraform                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 ```
 
 
- Last Updated on 08/04/2026 01:30:29 UTC
+ Last Updated on 09/04/2026 01:30:25 UTC
 <!--END_SECTION:waka-->
