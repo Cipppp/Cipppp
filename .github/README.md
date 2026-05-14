@@ -43,7 +43,7 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 702 Contributions in the Year 2026
+> 🏆 712 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,13 +76,9 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     37 mins             ██████████░░░░░░░░░░░░░░░   40.02 % 
-Markdown                 27 mins             ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-TypeScript               27 mins             ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/05/2026 01:32:55 UTC
+ Last Updated on 14/05/2026 01:34:27 UTC
 <!--END_SECTION:waka-->
