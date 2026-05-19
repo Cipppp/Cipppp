@@ -37,11 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C570%20hrs%2013%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 810 Contributions in the Year 2026
+> 🏆 833 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,6 +51,38 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
  > 
 > 🔑 70 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 18/05/2026 01:36:38 UTC
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               10 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   36.08 % 
+Text                     8 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+Python                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Terraform                2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+```
+
+
+ Last Updated on 19/05/2026 01:35:46 UTC
 <!--END_SECTION:waka-->
