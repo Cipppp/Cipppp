@@ -37,11 +37,13 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C576%20hrs%2041%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 894 Contributions in the Year 2026
+> 🏆 906 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,5 +84,5 @@ Terraform                1 hr 12 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/05/2026 01:36:00 UTC
+ Last Updated on 23/05/2026 01:31:54 UTC
 <!--END_SECTION:waka-->
