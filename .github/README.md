@@ -37,7 +37,7 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C612%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C616%20hrs%2037%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,9 +76,13 @@ Sunday                   1223 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+Text                     2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Terraform                1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Other                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 ```
 
 
- Last Updated on 22/07/2026 04:14:59 UTC
+ Last Updated on 23/07/2026 04:05:27 UTC
 <!--END_SECTION:waka-->
