@@ -37,7 +37,9 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C590%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -83,6 +85,30 @@ Terraform                1 hr 51 mins        ███░░░░░░░░�
 Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 04:34:21 UTC
+```text
+⏱ AI Coding Time: 13 hrs 26 mins (99.58%)
+
+✍️ 3,729 lines written by AI, 10 lines written by hand (99.73% AI-written)
+
+🔤 626,312,527 Input Tokens, 1,104,966 Output Tokens
+
+💵 $2596.98 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 168 AI Prompts
+
+Fable                    2,072 lines         █████████████░░░░░░░░░░░░   53.21 % 
+Opus                     1,822 lines         ████████████░░░░░░░░░░░░░   46.79 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.73% of written lines came from AI
+📝 Concise Prompter — average 312 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 03:58:57 UTC
 <!--END_SECTION:waka-->
