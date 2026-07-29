@@ -37,9 +37,9 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C590%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2052%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,37 +78,37 @@ Sunday                   1223 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Text                     2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Other                    1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Terraform                1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+YAML                     4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+TypeScript               3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Other                    3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Terraform                2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Python                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 26 mins (99.58%)
+⏱ AI Coding Time: 19 hrs 30 mins (97.82%)
 
-✍️ 3,729 lines written by AI, 10 lines written by hand (99.73% AI-written)
+✍️ 2,856 lines written by AI, 21 lines written by hand (99.27% AI-written)
 
-🔤 626,312,527 Input Tokens, 1,104,966 Output Tokens
+🔤 589,560,027 Input Tokens, 1,150,945 Output Tokens
 
-💵 $2596.98 Estimated AI Cost This Week
+💵 $2487.43 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 168 AI Prompts
+🧠 17 AI Sessions, 261 AI Prompts
 
-Fable                    2,072 lines         █████████████░░░░░░░░░░░░   53.21 % 
-Opus                     1,822 lines         ████████████░░░░░░░░░░░░░   46.79 % 
+Fable                    1,501 lines         █████████████░░░░░░░░░░░░   50.27 % 
+Opus                     1,485 lines         ████████████░░░░░░░░░░░░░   49.73 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📝 Concise Prompter — average 312 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.31% of changed lines were hand-edited
+🤖 AI-Driven — 99.27% of written lines came from AI
+📝 Concise Prompter — average 419 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 1.26% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 03:58:57 UTC
+ Last Updated on 29/07/2026 04:01:30 UTC
 <!--END_SECTION:waka-->
