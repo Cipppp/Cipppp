@@ -37,21 +37,21 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 💻 Open to exciting remote opportunities!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C632%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C632%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-374%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-374%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,229 Contributions in the Year 2026
+> 🏆 1,230 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 79 Public Repositories 
  > 
-> 🔑 75 Private Repositories 
+> 🔑 76 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -78,36 +78,36 @@ Sunday                   1289 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.64 % 
-TypeScript               6 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   40.26 % 
-Text                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               3 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.42 % 
+Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Text                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 44 mins (98.21%)
+⏱ AI Coding Time: 6 hrs 25 mins (95.45%)
 
-✍️ 3,004 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,985 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 21,355,717 Input Tokens, 1,514,163 Output Tokens
+🔤 11,792,453 Input Tokens, 637,542 Output Tokens
 
-💵 $745.53 Estimated AI Cost This Week
+💵 $375.79 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 134 AI Prompts
+🧠 6 AI Sessions, 75 AI Prompts
 
-Fable                    1,985 lines         ████████████████░░░░░░░░░   65.95 % 
-Opus                     1,025 lines         █████████░░░░░░░░░░░░░░░░   34.05 % 
+Fable                    2,007 lines         █████████████████░░░░░░░░   67.10 % 
+Opus                     984 lines           ████████░░░░░░░░░░░░░░░░░   32.90 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 841 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📄 Detailed Prompter — average 672 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 05:18:27 UTC
+ Last Updated on 03/09/2026 05:21:21 UTC
 <!--END_SECTION:waka-->
