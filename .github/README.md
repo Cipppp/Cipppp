@@ -56,21 +56,21 @@ Starting my coding journey in college, I've accumulated over 2+ years of hands-o
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                815 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-🌆 Daytime                2103 commits        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌃 Evening                2646 commits        ██████████░░░░░░░░░░░░░░░   41.25 % 
-🌙 Night                  850 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+🌞 Morning                820 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+🌆 Daytime                2104 commits        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌃 Evening                2646 commits        ██████████░░░░░░░░░░░░░░░   41.21 % 
+🌙 Night                  850 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1031 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Tuesday                  580 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Wednesday                747 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Monday                   1037 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Tuesday                  580 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Wednesday                747 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 Thursday                 616 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Friday                   883 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Saturday                 1268 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Sunday                   1289 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Friday                   883 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 1268 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Sunday                   1289 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
 ```
 
 
@@ -78,25 +78,25 @@ Sunday                   1289 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 hrs 7 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
-Markdown                 7 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Text                     5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-JavaScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Terraform                1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TypeScript               12 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   38.51 % 
+Markdown                 7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Text                     5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+JavaScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Terraform                1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 15 mins (100.0%)
+⏱ AI Coding Time: 32 hrs 12 mins (100.0%)
 
 ✍️ 7,556 lines written by AI, 40 lines written by hand (99.47% AI-written)
 
-🔤 46,413,135 Input Tokens, 5,554,757 Output Tokens
+🔤 39,006,387 Input Tokens, 4,409,201 Output Tokens
 
-💵 $1067.91 Estimated AI Cost This Week
+💵 $935.51 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 287 AI Prompts
+🧠 29 AI Sessions, 261 AI Prompts
 
 Fable                    6,289 lines         ████████████████████░░░░░   78.53 % 
 Opus                     1,336 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
@@ -106,11 +106,11 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.47% of written lines came from AI
-📚 Verbose Prompter — average 1,565 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 1,590 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 05:28:02 UTC
+ Last Updated on 08/09/2026 05:30:46 UTC
 <!--END_SECTION:waka-->
